@@ -22,7 +22,7 @@ This chapter will develop two simple, but useful DSLs: one to generate HTML, and
 
 ##### Prerequisites
 
-This chapter together pulls together many techniques discussed elsewhere in the book. In particular, you'll need to understand environments, functionals, non-standard evaluation, and metaprogramming.
+This chapter pulls together many techniques discussed elsewhere in the book. In particular, you'll need to understand environments, functionals, non-standard evaluation, and metaprogramming.
 
 ## HTML {#html}
 
